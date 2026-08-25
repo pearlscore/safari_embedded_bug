@@ -1,3 +1,7 @@
+> [!NOTE]
+> **This repository is archived.** It is read-only and unmaintained.
+> Contact [@Augmentador](https://github.com/Augmentador) for information about its contents.
+
 # safari_focus
 
 A new Flutter project.
